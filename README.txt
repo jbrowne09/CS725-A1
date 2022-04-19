@@ -1,3 +1,6 @@
+Project Author: Jonathan Browne
+----------------------------------------------------------------------------------------------------
+
 Note: ensure you start the server before attempting to start the client as the client immediately
 tries to open a connection to the server
 
